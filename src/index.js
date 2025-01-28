@@ -114,7 +114,7 @@ const crossChainTransferKDA = async (
 crossChainTransferKDA(
     'k:a840ac0128c0dc91fe8cff8a22671bc125c5e290c42a5fc6a7cb3a9d38c8c13b',
     'k:9dd1a138782d6d6f347ec2c9518f6328ef1c3b0a8041010a4db6c4a1d5979a79',
-    { decimal: '0.33' },
+    { decimal: '0.122' },
     '1',
     '0'
 );

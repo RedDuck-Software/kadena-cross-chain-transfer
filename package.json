@@ -5,7 +5,7 @@
     "type": "module",
     "scripts": {
         "eslint": "npx eslint .",
-        "start": "node index.js"
+        "start": "node src/index.js"
     },
     "keywords": [],
     "author": "",
